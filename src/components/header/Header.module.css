@@ -1,0 +1,14 @@
+.header {
+    background-color: rgb(107, 32, 177);
+    color:white;
+    height:10vh;
+    display: flex;
+}
+
+.logo{
+    margin-left: 20%;
+}
+
+.log-in__div {
+    margin: 20px 0 20px 60%;
+}

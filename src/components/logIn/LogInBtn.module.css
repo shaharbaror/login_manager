@@ -1,0 +1,32 @@
+.background {
+    background-color: rgb(76, 25, 124);
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    margin: 20px 0 20px 40%;
+    width:15%;
+    display: flex;
+}
+
+.background button {
+    background-color: rgba(107, 32, 177);
+    cursor: pointer;
+    color:white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 15px;
+    width:30%;
+    height:50%;
+    margin-left: 12%;
+    margin-top: 5%;
+    border:none;
+    font-size: large;
+
+}
+.background h2 {
+    margin-left: 15%;
+    margin-top:4%;
+}
+
+.background button:hover{
+    background-color: rgba(107, 32, 190);
+}
+/*  rgba(107, 32, 177); */

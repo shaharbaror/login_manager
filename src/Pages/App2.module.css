@@ -1,0 +1,36 @@
+.form {
+    margin-top: 5%;
+    text-align: center;
+    font-size: 150%;
+    
+}
+.userS {
+    padding: 3%;
+    
+}
+.userS input {
+    border: 1px solid;
+}
+
+.invalid{
+    color:red;
+}
+.invalid input {
+    border-color: red;
+    color:red;
+}
+
+.passS {
+    padding-bottom: 3%;
+}
+.passS input {
+    border: 1px solid;
+}
+
+.btn {
+    border-radius: 15px;
+    border: 2px solid rgba(0,0,0,0.2);
+    width:10%;
+    height:3vh;
+    cursor: pointer;
+}
